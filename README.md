@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying at Simplon.co
-- 🌱 I’m currently learning NextJS & Express with TypeScript (DiscordJS a bit too when I have some time)
+- 🌱 I’m currently learning NextJS & Express with TypeScript
 - 💬 Ask me about Next, TypeScript, Axios, Express a bit
-- ♥ I prefer to work on backend 
+- ♥ I prefer to work on Backend 
 
 ### My Stats:
 ![GHstats](https://github-readme-stats.vercel.app/api?username=gaetanPierru&show_icons=true)
@@ -15,9 +15,6 @@ Mail : pierrugaetan0@gmail.com
 
 ### Connect with me:
 
-[![img_contact](./img/globe-light.svg)](https://estcequecestbientotleweekend.fr/#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://estcequecestbientotleweekend.fr/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/gaetan-pierru/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gaetan-pierru/#gh-dark-mode-only)
 
