@@ -10,7 +10,7 @@
 
 ### Contact me ?
 
-Discord : Gapi#8203\
+Discord : gapi8203\
 Mail : pierrugaetan0@gmail.com
 
 ### Connect with me:
